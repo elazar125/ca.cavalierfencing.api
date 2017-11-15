@@ -1,0 +1,17 @@
+{
+  "name": "ca.cavalierfencing.api",
+  "version": "1.0.0",
+  "description": "API for interacting with Facebook's Graph API",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Ezra Lazar",
+  "license": "ISC"
+}
